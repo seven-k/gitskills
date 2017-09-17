@@ -1,5 +1,5 @@
 # gitskills
-a new line;
+a new line;aaaaaa
 creating a new branch is quick;
 creating a new branch is quick and simple.
 <<<<<<< HEAD
